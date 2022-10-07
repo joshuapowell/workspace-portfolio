@@ -1,0 +1,62 @@
+{
+    "id": null,
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "id": null,
+        "title": null,
+        "dates": {
+            "project_started": null,
+            "project_completed": null,
+            "project_launched": null,
+            "project_duration": null
+        },
+        "collaborators": [
+            {
+                "id": null,
+                "type": "customer",
+                "name": null,
+                "url": null
+            }
+        ],
+        "keywords": [
+            {
+                "id": null,
+                "name": null
+            }
+        ],
+        "themes": [
+            {
+                "id": null,
+                "name": null
+            }
+        ],
+        "contact_information": {
+            "id": null,
+            "body": "Correspondence concerning this article should be addressed to..."
+        },
+        "doi": null,
+        "copyright": "Copyright &copy; 2022 J.I. Powell. All rights reserved.",
+        "abstract": null,
+        "introduction": null,
+        "methods": null,
+        "results": null,
+        "discussion": null,
+        "conclusion": null,
+        "acknowledgements": null,
+        "supplementary_materials": [ //
+            {
+                "id": null,
+                "title": null,
+                "description": null,
+                "url": null
+            }
+        ],
+        "references": [
+            {
+                "id": null,
+                "body": null
+            }
+        ]
+    }
+}
